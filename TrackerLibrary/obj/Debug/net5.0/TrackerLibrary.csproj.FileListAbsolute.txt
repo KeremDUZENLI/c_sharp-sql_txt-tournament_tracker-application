@@ -10,3 +10,15 @@ C:\Users\kerem.duzenli_q2pay\Desktop\TournamentTracker\TrackerLibrary\obj\Debug\
 C:\Users\kerem.duzenli_q2pay\Desktop\TournamentTracker\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.dll
 C:\Users\kerem.duzenli_q2pay\Desktop\TournamentTracker\TrackerLibrary\obj\Debug\net5.0\ref\TrackerLibrary.dll
 C:\Users\kerem.duzenli_q2pay\Desktop\TournamentTracker\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.pdb
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.deps.json
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\bin\Debug\net5.0\ref\TrackerLibrary.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\bin\Debug\net5.0\TrackerLibrary.pdb
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfo.cs
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\ref\TrackerLibrary.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.pdb

@@ -70,3 +70,14 @@ C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker
 C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\obj\Debug\net5.0-windows\ref\TrackerUI.dll
 C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\obj\Debug\net5.0-windows\TrackerUI.pdb
 C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\obj\Debug\net5.0-windows\TrackerUI.genruntimeconfig.cache
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\TrackerUI.dll.config
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\runtimes\win7-x64\native\sni.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\runtimes\win7-x86\native\sni.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerUI\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
