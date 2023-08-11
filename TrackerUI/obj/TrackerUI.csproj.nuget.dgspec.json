@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {}
+    "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+    "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj",
         "projectName": "TrackerLibrary",
-        "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj",
         "packagesPath": "C:\\Users\\kerem.duzenli_q2pay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kerem.duzenli_q2pay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {
+    "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+        "projectUniqueName": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj",
         "projectName": "TrackerUI",
-        "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+        "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj",
         "packagesPath": "C:\\Users\\kerem.duzenli_q2pay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerUI\\obj\\",
+        "outputPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kerem.duzenli_q2pay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
-                "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Desktop\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj"
+              "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj": {
+                "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj"
               }
             }
           }

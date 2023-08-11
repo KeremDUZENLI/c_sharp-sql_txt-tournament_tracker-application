@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TrackerLibrary
-build_property.ProjectDir = C:\Users\kerem.duzenli_q2pay\Desktop\TournamentTracker\TrackerLibrary\
+build_property.ProjectDir = C:\Users\kerem.duzenli_q2pay\Documents\GitHub\c_sharp-sql_txt-tournament_tracker-application\TrackerLibrary\
