@@ -26,6 +26,7 @@ namespace TrackerUI
             WireUpList();
         }
 
+        /*
         private void CreateSampleData()
         {
             availableTeamMembers.Add(new PersonModel { FirstName = "Tim", LastName = "Corey" });
@@ -34,6 +35,7 @@ namespace TrackerUI
             selectedTeamMembers.Add(new PersonModel { FirstName = "Jane", LastName = "Smith" });
             selectedTeamMembers.Add(new PersonModel { FirstName = "Jane2", LastName = "Smith2" });
         }
+        */
 
         private void WireUpList()
         {
@@ -129,12 +131,15 @@ namespace TrackerUI
         {
             TeamModel t = new TeamModel();
 
-            t.TeamName = teamNameValue.Text;
-            t.TeamMembers = selectedTeamMembers;
+            if (t.TeamName != null)
+            {
+                t.TeamName = teamNameValue.Text;
+                t.TeamMembers = selectedTeamMembers;
 
-            t = GlobalConfig.Connection.CreateTeam(t);
+                t = GlobalConfig.Connection.CreateTeam(t);
 
-            // TODO - If we arent closing this form after creation
+                // TODO - If we arent closing this form after creation
+            }
         }
     }
 }
