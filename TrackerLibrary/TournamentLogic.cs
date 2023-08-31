@@ -31,6 +31,7 @@ namespace TrackerLibrary
             List<MatchupModel> previousRound = model.Rounds[0];
             List<MatchupModel> currRound = new List<MatchupModel>();
             MatchupModel currMatchup = new MatchupModel();
+            currMatchup.Entries = new List<MatchupEntryModel>();
 
             while (round <= rounds)
             {
@@ -43,6 +44,7 @@ namespace TrackerLibrary
                         currMatchup.MatchupRound = round;
                         currRound.Add(currMatchup);
                         currMatchup = new MatchupModel();
+                        currMatchup.Entries = new List<MatchupEntryModel>();
                     }
                 }
 
@@ -58,6 +60,7 @@ namespace TrackerLibrary
         {
             List<MatchupModel> output = new List<MatchupModel>();
             MatchupModel curr = new MatchupModel();
+            curr.Entries = new List<MatchupEntryModel>();
 
             foreach (TeamModel team in teams)
             {
@@ -68,6 +71,7 @@ namespace TrackerLibrary
                     curr.MatchupRound = 1;
                     output.Add(curr);
                     curr = new MatchupModel();
+                    curr.Entries = new List<MatchupEntryModel>();
 
                     if (byes > 0)
                     {
