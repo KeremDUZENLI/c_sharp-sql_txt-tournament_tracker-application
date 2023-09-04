@@ -46,7 +46,6 @@ namespace TrackerUI
             this.headerLabel.Size = new System.Drawing.Size(367, 47);
             this.headerLabel.TabIndex = 13;
             this.headerLabel.Text = "Tournament Dashboard";
-            this.headerLabel.Click += new System.EventHandler(this.headerLabel_Click);
             // 
             // loadExistingTournamentDropDown
             // 
@@ -81,7 +80,6 @@ namespace TrackerUI
             this.LoadTournamentButton.TabIndex = 21;
             this.LoadTournamentButton.Text = "Load Tournament";
             this.LoadTournamentButton.UseVisualStyleBackColor = true;
-            this.LoadTournamentButton.Click += new System.EventHandler(this.LoadTournamentButton_Click);
             // 
             // createTournamentButton
             // 
@@ -97,6 +95,7 @@ namespace TrackerUI
             this.createTournamentButton.TabIndex = 22;
             this.createTournamentButton.Text = "Create Tournament";
             this.createTournamentButton.UseVisualStyleBackColor = true;
+            this.createTournamentButton.Click += new System.EventHandler(this.createTournamentButton_Click);
             // 
             // TournamentDashboardForm
             // 
