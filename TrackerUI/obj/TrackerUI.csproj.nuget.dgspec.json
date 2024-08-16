@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj": {}
+    "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj": {
+    "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectUniqueName": "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj",
         "projectName": "TrackerLibrary",
-        "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj",
-        "packagesPath": "C:\\Users\\kerem.duzenli_q2pay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\obj\\",
+        "projectPath": "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj",
+        "packagesPath": "C:\\Users\\Kerem\\.nuget\\packages\\",
+        "outputPath": "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kerem.duzenli_q2pay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,45 +60,65 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj": {
+    "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj",
+        "projectUniqueName": "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj",
         "projectName": "TrackerUI",
-        "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj",
-        "packagesPath": "C:\\Users\\kerem.duzenli_q2pay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\obj\\",
+        "projectPath": "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\TrackerUI.csproj",
+        "packagesPath": "C:\\Users\\Kerem\\.nuget\\packages\\",
+        "outputPath": "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerUI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kerem.duzenli_q2pay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj": {
-                "projectPath": "C:\\Users\\kerem.duzenli_q2pay\\Documents\\GitHub\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj"
+              "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj": {
+                "projectPath": "D:\\GITHUB\\c_sharp-sql_txt-tournament_tracker-application\\TrackerLibrary\\TrackerLibrary.csproj"
               }
             }
           }
@@ -113,10 +138,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -125,7 +169,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
